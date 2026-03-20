@@ -1,0 +1,1 @@
+# serverless-pinterest-syndication-api
